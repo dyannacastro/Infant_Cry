@@ -3,3 +3,4 @@ librosa
 soundfile
 scikit-learn
 joblib
+git lfs install
